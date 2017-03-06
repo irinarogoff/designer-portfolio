@@ -1,0 +1,41 @@
+* {
+  text-align: center;
+}
+
+body {
+  background-color: #cccccc;
+}
+
+div {
+  width: 600px;
+  border: 2px solid #777777;
+  padding: 5px;
+  margin: auto;
+}
+
+h1 {
+  color: #000000;
+  font-weight: bold;
+}
+
+h2 {
+  color: #000000;
+}
+
+li {
+  text-align: left;
+}
+
+p {
+  color: #000000;
+}
+
+span {
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+  font-size: 32pt;
+}
+
+#rtt {
+  color: #000000;
+  font-size: 16pt;
+}
